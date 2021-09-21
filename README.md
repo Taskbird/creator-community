@@ -16,7 +16,8 @@ For video content submit a "story board", a brief description of your planned vi
 
 Step 4. Once your outline is approved by our team, submit your video or text content.
 
-Make sure to follow our rules regarding length and attribution outlined here.
+Make sure to follow our rules regarding length and attribution outlined [here](https://docs.google.com/document/d/1e4vRTvfBCCkzuFQJLa9quxy67XK2aLoVGrRf_5m3XAQ/edit)
+.
 
 Step 5. Submit your invoice.
 
