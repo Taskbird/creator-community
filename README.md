@@ -19,7 +19,7 @@ Step 4. Once your outline is approved by our team, submit your video or text con
 Make sure to follow our rules regarding length and attribution outlined [here](https://docs.google.com/document/d/1e4vRTvfBCCkzuFQJLa9quxy67XK2aLoVGrRf_5m3XAQ/edit)
 .
 
-Step 5. Submit your invoice.
+Step 5. Submit your [invoice](https://github.com/Taskbird/community-content/blob/main/TASKBIRD%20INVOICE-1.pdf)
 
 
 
