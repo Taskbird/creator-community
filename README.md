@@ -21,7 +21,7 @@ Our communuty manager will respond with suggestions/revisions and finally approv
 
 Make sure to follow our rules regarding length and attribution outlined [here](https://docs.google.com/document/d/1e4vRTvfBCCkzuFQJLa9quxy67XK2aLoVGrRf_5m3XAQ/edit)
 
-### **Step 5**. Submit your [invoice](https://github.com/Taskbird/community-content/blob/main/TASKBIRD%20INVOICE%20%5BBLOG%5D.pdf)
+### **Step 5**. Submit your [invoice](https://github.com/Taskbird/community-content/blob/main/INVOICE%20Taskbird%20Writer's%20Community.pdf)
 
 
 
