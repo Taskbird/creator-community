@@ -10,9 +10,9 @@ We will list the topics in the [issues](https://github.com/Taskbird/community-co
 
 ### **Step 3**. Submit an outline
 
-For writing topics, submit a paragraph by paragraph outline detailng your plan. 
+**For writing topics**, submit a paragraph by paragraph outline detailng your plan. 
 
-For video content, submit a "story board", a brief description of your planned video.
+**For video content**, submit a "story board", a brief description of your planned video.
 
 Our communuty manager will respond with suggestions/revisions and finally approve your outline.
 
