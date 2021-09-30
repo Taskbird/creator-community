@@ -16,11 +16,11 @@ Taskbird Community content is a place to share your knowledge with the community
 
 ### **Step 4**. Once your outline is approved by our team, submit your final video or text content to Community@taskbird.com
 
-#### Be sure to include your real name in your email
 #### In subject line please include:
-- Github Username  
+- Full name
+- Github username   
 - Issue/Topic number 
-- Video or Blog 
+- Is it a video or blog?
 
 
 ### **Step 5**. AFTER your final piece of content is APPROVED, please Submit your [invoice](https://github.com/Taskbird/community-content/blob/main/INVOICE%20Taskbird%20Writer's%20Community.pdf) to Community@taskbird.com
