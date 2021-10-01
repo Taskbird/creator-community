@@ -9,7 +9,7 @@ Taskbird Community content is a place to share your knowledge with the community
 
 ### **Step 3**. Submit an outline to the specific issue comments
 
-- Read our [Blog Guidelines](https://github.com/Taskbird/community-content/blob/main/Guest%20Blog%20Writing%20TB%20Mid_.pdf) before submitting
+- Read our [Blog Guidelines](https://github.com/Taskbird/community-content/blob/main/Blog%20Guidlines.pdf) before submitting
 
 - Our communuty manager will respond with suggestions/revisions and finally approve your outline.
 
