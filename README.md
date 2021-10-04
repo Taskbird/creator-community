@@ -1,6 +1,4 @@
-Are you an expert in a particular area of the cleaning industry? You can get paid for your expertise and knowledge by writing blogs and creating video content in the Taskbird community. 
-
-Taskbird Community content is a place to share your knowledge with the community, build your reputation, and get paid for your efforts.
+Are you an expert within the cleaning industry? Join our Writer’s Community to get paid for creating original blog content and videos related to all things cleaning.
 
 # How it works 
 
