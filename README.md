@@ -9,7 +9,7 @@ Join our Writer’s Community to get paid for creating original blog content and
 - View a [step-by-step tutorial](https://www.youtube.com/watch?v=u_hG11mk21c) on how to get started
  
 ### **Step 2**. Pick a Topic
-- Choose a topic that interests you from the [issues section](https://github.com/Taskbird/community-content/issues)
+- Choose a topic that interests you from the ["issues" section](https://github.com/Taskbird/community-content/issues)
 - Once you have selected a topic, simply write in the comment section that you would like to create a piece of content for this issue 
 
 
