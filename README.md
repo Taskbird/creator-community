@@ -31,7 +31,7 @@ Join our Writer’s Community to get paid for creating original blog content and
    - Is it a video or blog?
 
 
-### **Step 5**. Submitt your Invoice
+### **Step 5**. Submit your Invoice
 
 - AFTER your final piece of content is approved, you will receive an email with instructions on how to submit your [invoice](https://github.com/Taskbird/community-content/blob/main/INVOICE%20TEMPLATE.pdf) 
 
