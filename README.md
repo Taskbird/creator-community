@@ -20,7 +20,7 @@ Join our Writer’s Community to get paid for creating original blog content and
 - Our Community Manager will respond with suggestions/revisions or approve your outline
 
 
-### **Step 4**. Submitt Final Blog or Video
+### **Step 4**. Submit Final Blog or Video
 
 - Once your outline is approved by our team, submit your final blog content or video to community@taskbird.com
 
