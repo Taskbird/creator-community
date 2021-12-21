@@ -1,6 +1,6 @@
 Are you an expert in the cleaning industry? 
 
-Join our Writer’s Community to get paid for creating original blog content and videos related to all things cleaning.
+Join our Content Community to get paid for creating original blog content and videos related to all things cleaning.
 
 # How it works 
 
