@@ -2,6 +2,8 @@ Are you an expert in the cleaning industry?
 
 Join our Creator Community to get paid for creating original videos related to all things cleaning.
 
+[Watch](https://www.youtube.com/watch?v=Ylcu_C_3Xas) or read our guidelines for video content 
+
 # How it works 
 
 ### **Step 1**. [Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) with Github
