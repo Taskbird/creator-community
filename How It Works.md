@@ -2,7 +2,7 @@ Are you an expert in the cleaning industry?
 
 Join our Creator Community to get paid for creating original videos related to all things cleaning.
 
-[Watch](https://www.youtube.com/watch?v=Ylcu_C_3Xas) or read our guidelines for video content 
+[Watch](https://www.youtube.com/watch?v=Ylcu_C_3Xas) and [read](https://github.com/Taskbird/creator-community/blob/main/Video%20Guidelines.pdf) our guidelines for video content 
 
 # How it works 
 
